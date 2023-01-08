@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.App {
+  font-family: Georgia;
+  margin: 3rem 2rem;
+}
+body {
+  background-color: #a3e635;
+  color: #991b1b;
+}
+h1 {
+  padding-bottom: 1rem;
+  color: #222831;
+}
+
+button {
+  border-radius: 0.5rem;
+  border: 0.5rem solid #991b1b;
+  margin: 1rem 0.5rem;
+  padding: 0.5rem 0.8rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+  background: #991b1b;
+  color: #eeeeee;
+}
+li {
+  /* width: 40%; */
+  list-style: none;
+  margin: 1rem auto;
+  border: 1px solid #393e46;
+  border-radius: 1rem;
+  padding: 1rem;
+  width: 50vw;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.buttonDiv {
+  text-align: center;
+}
+
+.lineone {
+  text-align: center;
+}
+
+.linetwo {
+  text-align: center;
+}

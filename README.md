@@ -1,2 +1,2 @@
 # YouTube-Recommends
-Created with CodeSandbox
+This is an app made with React. It gives you a list of videos Recommended by YouTube.
